@@ -40,7 +40,7 @@ config :phoenix, :stacktrace_depth, 20
 config :medium_graphql_api, MediumGraphqlApi.Repo,
   adapter: Ecto.Adapters.Postgres,
   username: "postgres",
-  password: "21MARCH*#git ",
+  password: "21MARCH*#",
   database: "medium_graphql_api_dev",
   hostname: "localhost",
   pool_size: 10
