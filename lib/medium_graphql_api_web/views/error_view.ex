@@ -1,5 +1,5 @@
 defmodule MediumGraphqlApiWeb.ErrorView do
-  use MediumGraphqlApiWeb, :view
+  # -TODO use MediumGraphqlApiWeb, :view
 
   # If you want to customize a particular status code
   # for a certain format, you may uncomment below.
